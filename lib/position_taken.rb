@@ -1,4 +1,8 @@
-# code your #position_taken? method here!
+#  code your #position_taken? method here!
+#  Remember that we can access an array element at
+#  particular index with the following syntax:
+#  array[index_number] !!!
+
 
 def position_taken?(board,index)
   if board[index] == " "
